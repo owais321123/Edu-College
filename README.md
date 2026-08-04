@@ -262,7 +262,7 @@ Contributions are welcome!
 **Software Engineer | Full Stack Developer | Competitive Programmer**
 
 - GitHub: https://github.com/Aslaan001
-- LinkedIn: https://linkedin.com/in/aslaan001
+- LinkedIn: https://linkedin.com/in/aslaankhan001
 - Email: aslaankhan640@gmail.com
 
 ---
